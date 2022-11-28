@@ -2,7 +2,6 @@
 <img src="/src/xcyzcgwi.gif" />
 
 Advanced and customizable Audio Visualizer for [lively wallpaper](https://rocksdanister.github.io/lively/) (similar to Wallpaper Engine)  
-See example configurations and demonstration below!
 
 ## How to download
 
